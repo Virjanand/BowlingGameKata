@@ -13,13 +13,13 @@ Program will not:
 - no scores for intermediate frames
 
 Examples:
-12345123451234512345 -> score: 60
-XXXXXXXXXXXX -> score: 300
-9-9-9-9-9-9-9-9-9-9- -> score: 90
-5/5/5/5/5/5/5/5/5/5/5 -> score: 150
+- 12345123451234512345 -> score: 60
+- XXXXXXXXXXXX -> score: 300
+- 9-9-9-9-9-9-9-9-9-9- -> score: 90
+- 5/5/5/5/5/5/5/5/5/5/5 -> score: 150
 
 *ToDo*
-[x] -------------------- -> score: 0
-[ ] 11111111111111111111 -> score: 20
-[ ] 1-1-1-1-1-1-1-1-1-1- -> score: 10
-[ ] XXXXXXXXXXXX -> score: 300
+- [x] -------------------- -> score: 0
+- [ ] 11111111111111111111 -> score: 20
+- [ ] 1-1-1-1-1-1-1-1-1-1- -> score: 10
+- [ ] XXXXXXXXXXXX -> score: 300
