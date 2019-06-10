@@ -22,3 +22,4 @@ XXXXXXXXXXXX -> score: 300
 [x] -------------------- -> score: 0
 [ ] 11111111111111111111 -> score: 20
 [ ] 1-1-1-1-1-1-1-1-1-1- -> score: 10
+[ ] XXXXXXXXXXXX -> score: 300
